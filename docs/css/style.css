@@ -8185,10 +8185,11 @@ h1, h2, h3, h4, h5,
       color: #000000; }
 
 .navbar-brand {
-  font-weight: 900;
+  font-weight: 600;
   font-size: 24px;
   padding: 0;
-  line-height: 1; }
+  line-height: 1;
+  text-transform: uppercase; }
 
 .hero-wrap {
   width: 100%;
@@ -8311,7 +8312,8 @@ h1, h2, h3, h4, h5,
           font-size: 60px;
           color: #fff;
           line-height: 1.2;
-          font-weight: 800; }
+          font-weight: 400;
+          text-shadow: 1px 1px 10px #000; }
           .owl-carousel.home-slider .slider-item .slider-text h1 span {
             display: block; }
           @media (max-width: 991.98px) {
